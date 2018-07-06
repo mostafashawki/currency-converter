@@ -1,5 +1,5 @@
 # Currency Converter API
-NodeJS API Curency Converter using European Central Bank
+NodeJS API Curency Converter using European Central Bank API
 
 ## Installation
 npm install
